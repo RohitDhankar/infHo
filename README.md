@@ -1,4 +1,4 @@
-# info_Hotels - a Public Git Repo created to showcase Data analytics from InfoHotels -- https://infobot-hotels.herokuapp.com/infoHOTELS/
+## info_Hotels - This Public Git Repo created to showcase Data analytics from InfoHotels ###-- https://infobot-hotels.herokuapp.com/infoHOTELS/
 
 *Info_Hotels* or simply "Information about Hotels" is part of the larger Info_BOT platform hosted on Heroku . 
 This webportal is being used both for Training puposes and for Data Aggregation / Integration.
